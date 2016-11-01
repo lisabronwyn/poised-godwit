@@ -62,6 +62,12 @@ hr {
     border-color: #999999;
 }
 
+.text-center {
+  width:400px;
+  font-size: .95em;
+  text-align: center;
+}
+
 .brand,
 .address-bar {
     display: none;
