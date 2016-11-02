@@ -14,8 +14,13 @@ body {
 
 h1,
 h2,
+<<<<<<< HEAD
 h3.
 
+=======
+/*h3,*/
+/*h4,*/
+>>>>>>> 2caacaaa6c802cf52cf991264a03234396ed82d2
 h5,
 h6 {
     text-transform: uppercase;
@@ -37,33 +42,35 @@ h4 {
     font-family: "Montserrat","Helvetica Neue",sans-serif;serif;
     font-weight: 400;
     font-size: 1em;
+<<<<<<< HEAD
 
 */
 
 
+=======
+>>>>>>> 2caacaaa6c802cf52cf991264a03234396ed82d2
 }
-.brand {
-  /*background: url('../img/rabbitheaderredo.jpg') ;*/
-  font-family: "Playfair Display", "Helvetica Neue", serif;
-  color: #666666;
 
-}
+/*.brand {
+  font-family: "Open Sans","Helvetica Neue",Helvetica,Arial,sans-serif;
+  color: #666666;
+}*/
+
 .img-bernie-responsive {
   float:center;
   text-align: justify;
-
 }
-
-.image-center {
-
-}
-
 
 p {
     font-size: 1.25em;
     line-height: 1.6;
+<<<<<<< HEAD
     margin: 0 5px 0 5px;
     padding-right: 53px;
+=======
+    margin: 0 2px 0 2px;
+    /*padding-right: 40px;*/
+>>>>>>> 2caacaaa6c802cf52cf991264a03234396ed82d2
     color: #000;
     text-align: justify;
 }
@@ -73,7 +80,7 @@ hr {
     border-color: #999999;
 }
 
-.text-center {
+ .text-center {
   width:400px;
   font-size: .95em;
   text-align: center;
@@ -146,9 +153,6 @@ hr {
     margin: 0 auto 0;
 }
 
-ol {
-    font-size: 1em;
-}
 
 footer {
     background: #fff;
