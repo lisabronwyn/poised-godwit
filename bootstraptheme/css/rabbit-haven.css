@@ -14,8 +14,8 @@ body {
 
 h1,
 h2,
-h3.
-
+h3,
+h4,
 h5,
 h6 {
     text-transform: uppercase;
@@ -33,7 +33,7 @@ h6 {
     font-size: 1.25em;
 }*/
 
-h4 {
+/*h4 {
     font-family: "Montserrat","Helvetica Neue",sans-serif;serif;
     font-weight: 400;
     font-size: 1em;
@@ -41,22 +41,17 @@ h4 {
 */
 
 
-}
-.brand {
-  /*background: url('../img/rabbitheaderredo.jpg') ;*/
-  font-family: "Playfair Display", "Helvetica Neue", serif;
+/*}*/
+/*.brand {
+  font-family: "Open Sans","Helvetica Neue",Helvetica,Arial,sans-serif;
   color: #666666;
 
-}
-.img-bernie-responsive {
+}*/
+/*.img-bernie-responsive {
   float:center;
   text-align: justify;
 
-}
-
-.image-center {
-
-}
+}*/
 
 
 p {
@@ -146,9 +141,6 @@ hr {
     margin: 0 auto 0;
 }
 
-ol {
-    font-size: 1em;
-}
 
 footer {
     background: #fff;
