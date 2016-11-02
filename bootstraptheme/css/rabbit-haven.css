@@ -14,8 +14,8 @@ body {
 
 h1,
 h2,
-h3,
-h4,
+/*h3,*/
+/*h4,*/
 h5,
 h6 {
     text-transform: uppercase;
@@ -24,41 +24,36 @@ h6 {
     letter-spacing: 1px;
 }
 
-/*h3 {
+h3 {
     font-family: "Open Sans";
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
     -o-background-size: cover;
     font-size: 1.25em;
-}*/
+}
 
-/*h4 {
+h4 {
     font-family: "Montserrat","Helvetica Neue",sans-serif;serif;
     font-weight: 400;
     font-size: 1em;
+}
 
-*/
-
-
-/*}*/
 /*.brand {
   font-family: "Open Sans","Helvetica Neue",Helvetica,Arial,sans-serif;
   color: #666666;
-
 }*/
-/*.img-bernie-responsive {
+
+.img-bernie-responsive {
   float:center;
   text-align: justify;
-
-}*/
-
+}
 
 p {
     font-size: 1.25em;
     line-height: 1.6;
-    margin: 0 5px 0 5px;
-    padding-right: 53px;
+    margin: 0 2px 0 2px;
+    /*padding-right: 40px;*/
     color: #000;
     text-align: justify;
 }
@@ -68,7 +63,7 @@ hr {
     border-color: #999999;
 }
 
-.text-center {
+ .text-center {
   width:400px;
   font-size: .95em;
   text-align: center;
